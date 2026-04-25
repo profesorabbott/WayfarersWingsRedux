@@ -1,4 +1,14 @@
-# KSP2 Redux Mod Template
+# Wayfarer's Wings
 
-## Setup
-To set up a project, follow the [modding documentation](https://docs.rendezvous.dev/s/0a4a3e31-0b40-48e0-bd81-e14856f80d3d/doc/getting-started-with-modding-ea0cMbSQ3V).
+Give each Kerbal the fame it deserves and know who was the first to plant a flag on Mun or whatever else
+
+## Description
+
+Have you ever wanted to know who is the first Kerbal to plant a flag on Mun?
+Who is the first to orbit Kerbin?
+Who is the first to land on Duna?
+
+Wonder no more! With Wayfarer's Wings, you can track the achievements of all your Kerbals and choose the best one for the next mission!
+
+## Original
+This is a redux ported version of the original wayfarer's wings mod by rocketfactory here [Original Mod](https://github.com/Kerbalight/WayfarersWings)
